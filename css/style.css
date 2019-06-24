@@ -50,11 +50,11 @@ img {
 }
 
 h4.amiable {
-  background: linear-gradient(to right, #02a000, #f7f702)
+  background: linear-gradient(to right, #02a000, #06e502)
 }
 
 h4.indifferent {
-  background: linear-gradient(to right, #FFF, #999995)
+  background: linear-gradient(to right, #FFF, #f7f702)
 }
 
 h4.dubious {
